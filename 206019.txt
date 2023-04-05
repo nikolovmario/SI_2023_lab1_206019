@@ -53,4 +53,9 @@ Odgovori:
 26. $ git push --all
     $ git push origin bug3 --force
 
-27. 
+27. $ git log // komanda koja ni ja pokazuva istorijata na nasite commits
+    $ nano logs.txt // kreirame nov txt file vo folderot
+    $ git add * // gi dodavame novite files
+    $ git commit -a -m "Final commit" 
+
+28. $ git push --all
