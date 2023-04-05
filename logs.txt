@@ -1,0 +1,38 @@
+$ git log
+commit 8214f246db9aff800416b81c187e35552cce9225 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Mario Nikolov <marionikolov4u@gmail.com>
+Date:   Wed Apr 5 16:01:51 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 4522a207fcea56df1e774263f92549d8f841444e
+Merge: b5662c9 a3be6f4
+Author: Mario Nikolov <marionikolov4u@gmail.com>
+Date:   Wed Apr 5 17:19:37 2023 +0200
+
+    Merge branch 'bug2'
+
+commit a3be6f49b60d1dad1c006ec6e845334c06c936a9 (origin/bug2, bug2)
+Author: Mario Nikolov <marionikolov4u@gmail.com>
+Date:   Wed Apr 5 15:59:08 2023 +0200
+
+    Fix wrong condition in FilterOddNumbers
+
+commit b5662c9c56aa12256cfd063faa9172bdc783552c (origin/bug1, bug1)
+Author: Mario Nikolov <marionikolov4u@gmail.com>
+Date:   Wed Apr 5 15:55:03 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 860898abdf4971d794e7b1819f3cad3771360174
+Author: Mario Nikolov <marionikolov4u@gmail.com>
+Date:   Wed Apr 5 00:37:52 2023 +0200
+
+    Add java class
+
+commit c0c8f24262c74fc1ea526d7e72d8528508218df4
+Author: Mario Nikolov <marionikolov4u@gmail.com>
+Date:   Tue Apr 4 23:55:13 2023 +0200
+
+    Initial commit
+(END)
